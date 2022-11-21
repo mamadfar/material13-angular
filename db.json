@@ -1,0 +1,22 @@
+{
+  "productList": [
+    {
+      "productName": "Apple2",
+      "category": "fruits",
+      "freshness": "Brand New",
+      "price": 550,
+      "comment": "This is tasty.",
+      "date": "2022-11-15T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "fruits",
+      "freshness": "Second Hand",
+      "price": 25,
+      "comment": "This is not fresh.",
+      "date": "2022-11-23T23:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
